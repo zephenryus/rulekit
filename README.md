@@ -13,4 +13,5 @@ This repository follows a **monorepo architecture** using `pnpm workspaces`, wit
 - **`@rulekit/ui`** – A prebuilt UI component for visual rule building and debugging.
 
 ## License
+
 Licensed under **Apache 2.0**.
